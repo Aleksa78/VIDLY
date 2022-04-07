@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "123",
-  "db": "mongodb://localhost/vidly"
+  "db": "mongodb://aleksa:1234@vidlycluster-shard-00-00.qlqhj.mongodb.net:27017,vidlycluster-shard-00-01.qlqhj.mongodb.net:27017,vidlycluster-shard-00-02.qlqhj.mongodb.net:27017/vidly-main?ssl=true&replicaSet=atlas-pancon-shard-0&authSource=admin&retryWrites=true&w=majority"
 }
