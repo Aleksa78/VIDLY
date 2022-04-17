@@ -3007,3 +3007,4 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:02:05.219Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:02:41.232Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2022-04-17T17:02:43.299Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:30:22.111Z"}
