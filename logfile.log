@@ -3018,3 +3018,5 @@
 {"level":"info","message":"Connected to mongodb+srv://aleksa:1234@vidlycluster.qlqhj.mongodb.net/vidlyCluster?retryWrites=true&w=majority...","timestamp":"2022-04-17T17:51:31.336Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:57:44.001Z"}
 {"level":"info","message":"Connected to mongodb+srv://aleksa:1234@vidlycluster.qlqhj.mongodb.net/vidlyCluster?retryWrites=true&w=majority...","timestamp":"2022-04-17T17:57:44.293Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:58:54.349Z"}
+{"level":"info","message":"Connected to mongodb+srv://aleksa:1234@vidlycluster.qlqhj.mongodb.net/vidlyCluster?retryWrites=true&w=majority...","timestamp":"2022-04-17T17:58:54.628Z"}
