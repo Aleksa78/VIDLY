@@ -3008,3 +3008,7 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:02:41.232Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2022-04-17T17:02:43.299Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:30:22.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:35:36.385Z"}
+{"level":"info","message":"Connected to mongodb://aleksa:1234@vidlycluster-shard-00-00.qlqhj.mongodb.net:27017,vidlycluster-shard-00-01.qlqhj.mongodb.net:27017,vidlycluster-shard-00-02.qlqhj.mongodb.net:27017/vidly?ssl=true&replicaSet=atlas-pancon-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2022-04-17T17:35:36.924Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-04-17T17:44:04.513Z"}
+{"level":"info","message":"Connected to mongodb://aleksa:1234@vidlycluster-shard-00-00.qlqhj.mongodb.net:27017,vidlycluster-shard-00-01.qlqhj.mongodb.net:27017,vidlycluster-shard-00-02.qlqhj.mongodb.net:27017/vidly?ssl=true&replicaSet=atlas-pancon-shard-0&authSource=admin&retryWrites=true&w=majority...","timestamp":"2022-04-17T17:44:05.018Z"}
